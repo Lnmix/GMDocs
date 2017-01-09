@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# Blacksmith documentation build configuration file, created by
-# sphinx-quickstart on Mon Jan  9 12:06:10 2017.
+# GoodMeasure documentation build configuration file, created by
+# sphinx-quickstart on Mon Jan  9 15:51:45 2017.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Blacksmith'
+project = u'GoodMeasure'
 copyright = u'2017, GoodMeasure'
 author = u'GoodMeasure'
 
@@ -99,7 +99,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Blacksmithdoc'
+htmlhelp_basename = 'GoodMeasuredoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -126,7 +126,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Blacksmith.tex', u'Blacksmith Documentation',
+    (master_doc, 'GoodMeasure.tex', u'GoodMeasure Documentation',
      u'GoodMeasure', 'manual'),
 ]
 
@@ -136,7 +136,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'blacksmith', u'Blacksmith Documentation',
+    (master_doc, 'goodmeasure', u'GoodMeasure Documentation',
      [author], 1)
 ]
 
@@ -147,8 +147,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Blacksmith', u'Blacksmith Documentation',
-     author, 'Blacksmith', 'One line description of project.',
+    (master_doc, 'GoodMeasure', u'GoodMeasure Documentation',
+     author, 'GoodMeasure', 'One line description of project.',
      'Miscellaneous'),
 ]
 
