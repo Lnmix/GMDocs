@@ -3,31 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-GoodMeasure Blacksmith
+GoodMeasure2
 ======================================
 
-Entity Types & Entities
-======================================
 
-Here is some text, explaining stuff
-
-
-    var x = 'test';
-    >> console.log(x);
-
-Entity Types
-^^^^^^^^^^^^
-
-Entities
-^^^^^^^^
 .. toctree::
    :maxdepth: 2
+   :caption: APIs
+   :titlesonly:
 
-Forging & Batching
-======================================
-
-Forging
-^^^^^^^
-
-Batching
-^^^^^^^^
+   blacksmith
