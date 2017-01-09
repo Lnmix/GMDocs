@@ -1,1 +1,0 @@
-Search.setIndex({docnames:["index"],envversion:50,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{"var":0,consol:0,explain:0,here:0,index:0,log:0,modul:0,page:0,search:0,some:0,stuff:0,test:0,text:0},titles:["GoodMeasure Blacksmith"],titleterms:{batch:0,blacksmith:0,document:[],entiti:0,forg:0,goodmeasur:0,indic:0,tabl:0,type:0,welcom:[]}})
