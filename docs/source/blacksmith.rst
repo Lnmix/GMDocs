@@ -22,6 +22,8 @@ In the query string as `apikey`
 
 **https://blacksmith.goodmeasure.io/**
 
+**:user param is your main account username**
+
 Entity Types (Blueprints) & Entities (Items)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
